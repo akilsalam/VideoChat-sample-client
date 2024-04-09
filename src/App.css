@@ -39,7 +39,8 @@ image{
 
 .video {
     width: 80%; /* Make the video element responsive */
-    border-radius: 30px;
+    height: 400px;
+    /* border-radius: 30px; */
 }
 
 .gridContainer{
